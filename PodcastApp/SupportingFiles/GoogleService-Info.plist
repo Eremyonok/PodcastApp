@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>110212256621-82jvpv7iljrq9lft0hi2k1jo68pbk13t.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.110212256621-82jvpv7iljrq9lft0hi2k1jo68pbk13t</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBRDTakdiszKsQv5cAzEzMHI2ILiX0yjrU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>110212256621</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>Eremyonok.PodcastApp</string>
+	<key>PROJECT_ID</key>
+	<string>podcastapp-f34f5</string>
+	<key>STORAGE_BUCKET</key>
+	<string>podcastapp-f34f5.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:110212256621:ios:2be09ecb33b43c4b5e0064</string>
+</dict>
+</plist>
